@@ -1,0 +1,17 @@
+[
+  {"type":"header","version":"5.0.4deb2+deb11u1","comment":"Export to JSON plugin for PHPMyAdmin"},
+  {"type":"database","name":"LDB"},
+  {"type":"table","name":"vartotojai","database":"LDB","data":
+  [
+    {"id":"1","mac":"01:23:45:67:89:AB","sensorius":"wiliboxas1","stiprumas":"27"},
+    {"id":"2","mac":"01:23:45:67:89:AB","sensorius":"wiliboxas2","stiprumas":"14"},
+    {"id":"3","mac":"01:23:45:67:89:AB","sensorius":"wiliboxas3","stiprumas":"7"},
+    {"id":"4","mac":"01:03:40:57:89:AC","sensorius":"wiliboxas1","stiprumas":"11"},
+    {"id":"5","mac":"01:03:40:57:89:AC","sensorius":"wiliboxas2","stiprumas":"1"},
+    {"id":"6","mac":"01:03:40:57:89:AC","sensorius":"wiliboxas3","stiprumas":"31"},
+    {"id":"7","mac":"01:40:40:50:89:AD","sensorius":"wiliboxas1","stiprumas":"10"},
+    {"id":"8","mac":"01:40:40:50:89:AD","sensorius":"wiliboxas2","stiprumas":"2"},
+    {"id":"9","mac":"01:40:40:50:89:AD","sensorius":"wiliboxas3","stiprumas":"32"}
+  ]
+  }
+]

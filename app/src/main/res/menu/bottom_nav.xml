@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/firstFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"/>
+    <item
+        android:id="@+id/secondFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Add Rss"
+        android:icon="@drawable/baseline_add_location_24"/>
+    <item
+        android:id="@+id/thirdFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="View Rss"
+        android:icon="@drawable/baseline_rss_feed_24"/>
+</menu>
