@@ -50,17 +50,22 @@ This is a location-based Android application developed for the **Wireless Networ
 
 ---
 
-## 💡 Example Code Highlights(`kotlin`)
+## 💡 Example Code Highlights
 
 ### MAC Address Formatting (Auto-complete)
-
+```kotlin
 binding.macAddressInput.addTextChangedListener(object : TextWatcher {
     // Auto-inserts ":" after every 2 characters
 })
+```
 
 ### SharedPreferences for Session Persistence
+```kotlin
 val sharedPreference = activity?.getSharedPreferences("sharedPreference", 0)
 editor?.putString("rssList", json)
+```
 
 ### RecyclerView Adapter for RSS Entries
+```kotlin
 class RSSAdapter(...) : RecyclerView.Adapter<...> { ... }
+```
